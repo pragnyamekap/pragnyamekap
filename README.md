@@ -22,12 +22,12 @@
 <table border="0">
   <tr>
     <td width="60%">
-      Computer Science student deeply interested in <b>Data Science, Machine Learning, and Artificial Intelligence</b>. 
+      I am a passionate Computer Science student building a strong foundation in <b>Python and Data Science</b>, with a focused goal of becoming an <b>AI/ML Engineer</b>.
       <br/><br/>
-      Focused on writing clean Python code, mastering algorithmic problem solving, and building data-driven applications from scratch.
+      Focusing on building real-world projects, solving algorithmic challenges, and exploring modern Machine Learning workflows to build smart, data-driven applications.
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/developer.gif" width="100%"/>
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--developer-programmer-technology-pack-network-communication-illustrations-4378933.png?f=webp&w=300" width="100%"/>
     </td>
   </tr>
 </table>
@@ -37,6 +37,8 @@
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,17 +53,18 @@
     <td width="50%" valign="top">
       <h3>🚀 Learning & Building</h3>
       <ul>
-        <li>🐍 Practicing advanced Python logic & functions</li>
-        <li>📊 Exploring Data Science libraries & metrics</li>
-        <li>💡 Structuring personal projects cleanly</li>
+        <li>🐍 Developing core Python CLI tools & scripts</li>
+        <li>📊 Mastering NumPy, Pandas & Data Analysis</li>
+        <li>🧮 Strengthening Math & Problem-Solving foundations</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔭 Currently Working On</h3>
+      <h3>📌 Currently Working On</h3>
       <ul>
-        <li>🤖 AI & Machine Learning fundamentals</li>
-        <li>💻 Developing mini-projects on Replit & GitHub</li>
-        <li>🎯 Enhancing logical problem-solving abilities</li>
+        <li>🐍 Building core <b>Python projects</b> and algorithmic tools</li>
+        <li>📊 Strengthening <b>Data Science foundations</b> (NumPy, Pandas, Matplotlib)</li>
+        <li>🧠 Exploring <b>Machine Learning & AI</b> concepts</li>
+        <li>💡 Improving <b>Problem Solving</b> skills in Python</li>
       </ul>
     </td>
   </tr>
@@ -69,7 +72,19 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Collaborate
+
+Interested in collaborating on projects related to:
+
+🔨 **Python | Data Science | Machine Learning | Artificial Intelligence | Data Analysis**
+
+* Building data-driven applications & smart Python tools 🚀
+* Exploring Machine Learning workflows and analytics 🛠️
+* Open to teamwork, learning, and innovative ideas 💡
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -89,4 +104,23 @@
 
 ## ⚡ Fun Fact
 
-> *"Continuous learning is the key — every bug is just a step
+> *"Continuous learning is the key — every bug is just a step closer to the solution!"* 🪲✨
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+
+![Pragnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnyamekap&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pragnyamekap&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you like my projects, consider giving them a star!** ⭐
+
+</div>
