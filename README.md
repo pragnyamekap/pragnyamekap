@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Pragnya Paramita
 
-### 🚀 Aspiring AI/ML Engineer | Learning Python, DSA & Math Foundations
+### 🚀 Aspiring Data Scientist & AI Enthusiast | Python & Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Exploring+Code+%26+Creativity..;Building+Smart+Python+Projects..;Learning+Data+Science+%26+AI..;Passionate+Problem+Solver.." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=3399FF&center=true&vCenter=true&width=520&height=50&lines=Turning+Data+Into+Smart+Insights..;Building+Python+Scripts+%26+Tools..;Exploring+Machine+Learning+Workflows..;Always+Eager+To+Learn+New+Tech.." alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/pragnyamekap?label=Followers&style=flat-square&color=white&labelColor=000000" />
   <img src="https://img.shields.io/github/stars/pragnyamekap?label=Stars&style=flat-square&color=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/B.Tech_CGPA-8.8-brightgreen?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/B.Tech_CGPA-8.64-brightgreen?style=flat-square&labelColor=333333" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pragnyamekap.pragnyamekap&style=flat-square" />
 </p>
 
@@ -22,12 +22,12 @@
 <table border="0">
   <tr>
     <td width="60%">
-      Computer Science undergraduate specializing in <b>Data Science & Artificial Intelligence</b> with a strong focus on core Python, algorithms, and practical problem solving.
+      Computer Science student deeply interested in <b>Data Science, Machine Learning, and Artificial Intelligence</b>. 
       <br/><br/>
-      Passionate about building efficient tools, exploring modern ML workflows, and continuously developing hands-on technical skills.
+      Focused on writing clean Python code, mastering algorithmic problem solving, and building data-driven applications from scratch.
     </td>
     <td width="40%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--developer-programmer-technology-pack-network-communication-illustrations-4378933.png?f=webp&w=300" width="100%"/>
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/developer.gif" width="100%"/>
     </td>
   </tr>
 </table>
@@ -51,17 +51,17 @@
     <td width="50%" valign="top">
       <h3>🚀 Learning & Building</h3>
       <ul>
-        <li>🐍 Developing core Python CLI tools & scripts</li>
-        <li>📊 Mastering NumPy, Pandas & Data Analysis</li>
-        <li>🧮 Strengthening Math & Problem-Solving foundations</li>
+        <li>🐍 Practicing advanced Python logic & functions</li>
+        <li>📊 Exploring Data Science libraries & metrics</li>
+        <li>💡 Structuring personal projects cleanly</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🔭 Currently Working On</h3>
       <ul>
-        <li>🤖 AI/ML fundamentals & workflow integration</li>
-        <li>💻 Sharing open-source projects on GitHub</li>
-        <li>🎯 Enhancing Data Structures & Algorithms skills</li>
+        <li>🤖 AI & Machine Learning fundamentals</li>
+        <li>💻 Developing mini-projects on Replit & GitHub</li>
+        <li>🎯 Enhancing logical problem-solving abilities</li>
       </ul>
     </td>
   </tr>
@@ -89,23 +89,4 @@
 
 ## ⚡ Fun Fact
 
-> *"I turn coffee and raw data into intelligent insights — and occasionally debug code for hours just to find a missing colon!"* ☕📊✨
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pragnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnyamekap&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pragnyamekap&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you like my projects, consider giving them a star!** ⭐
-
-</div>
+> *"Continuous learning is the key — every bug is just a step
