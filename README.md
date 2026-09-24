@@ -27,7 +27,7 @@
       Focusing on building real-world projects, solving algorithmic challenges, and exploring modern Machine Learning workflows to build smart, data-driven applications.
     </td>
     <td width="40%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--developer-programmer-technology-pack-network-communication-illustrations-4378933.png?f=webp&w=300" width="100%"/>
+   <img src="giphy.gif" width="100%" style="border-radius:10px;"/>
     </td>
   </tr>
 </table>
